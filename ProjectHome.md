@@ -1,0 +1,1 @@
+Extending current functionality of OpenCV to perform Feature Tracking. Tested on OpenCV SVN and 2.2.
